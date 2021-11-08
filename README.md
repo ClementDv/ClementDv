@@ -7,11 +7,25 @@
   developer
 </h2>
 
-<h3 align="center">About me</h3>
+<h3 align="center">About me ✍</h3>
 
-<p align="center">I am a young graduate as <a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java">Java Developer</a>. I learned to develop restful API, test them, document them and present them. All my study projects are available in my repositories starting with Op-Cl-Java followed by the number 1 being the first and 9 the last</p>
+<p align="center">
+I am french, 22 years old. I am young graduate as <a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java" target="_blank">Java Developer</a>. I learned to develop restful API, test them, document them and present them. All my study projects are available in my repositories starting with Op-Cl-Java followed by the number 1 being the first and 9 the last
+</p>
 
-<h3 align="center">My Website</h3>
+<h3 align="center">My Website 💻</h3>
 
-<p align="center">I'm searching job so i've decided to dev my own website to show my skills and to present better myself.</p>
-<p align="center"><a href="https://clementpoirier.fr"/>https://clementpoirier.fr</a></p>
+<p align="center">
+I am searching job so I have decided to develop my own website to show my skills and to present better myself.</br></br>
+<a href="https://clementpoirier.fr" target="_blank"/>
+<img src="https://github.com/ClementDv/ClementDv/blob/main/assets/headerwebsite.PNG" width="951.5" height="468.5"/>
+</a>
+<a href="https://clementpoirier.fr" target="_blank"/>https://clementpoirier.fr</a>
+</p>
+
+<h3 align="center">Contact 📓</h3>
+
+<p align="center">
+E-mail: <a href="mailto:clement@poirier.io">clement@poirier.io</a></br>
+Linkedin: <a href="https://www.linkedin.com/in/clément-poirier-dev/">@clément-poirier-dev</a>
+</p>
