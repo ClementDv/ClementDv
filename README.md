@@ -18,7 +18,7 @@ I am french, 22 years old. I am young graduate as a<a href="https://openclassroo
 <p align="center">
 I am searching for a job so I have decided to develop my own website to show my skills and to present myself better.</br></br>
 <a href="https://clementpoirier.fr" target="_blank"/>
-<img src="https://github.com/ClementDv/ClementDv/blob/main/assets/headerwebsite.PNG" width="475.75" height="234.25"/>
+<img src="https://github.com/ClementDv/ClementDv/blob/main/assets/headerwebsite.PNG" width="475.75"/>
 </a>
 </br>
 <a href="https://clementpoirier.fr" target="_blank"/>https://clementpoirier.fr</a>
