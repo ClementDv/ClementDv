@@ -10,7 +10,7 @@
 <h3 align="center">About me ✍</h3>
 
 <p align="center">
-I am french, 22 years old. I am young graduate as a<a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java" target="_blank">Java Developer</a>. I learned to develop restful API, test them, document them and present them. All my study projects are available in my repositories starting with Op-Cl-Java followed by the number 1 being the first and 9 the last
+I am french, 23 years old. I am young graduate as a<a href="https://openclassrooms.com/fr/paths/191-developpeur-dapplication-java" target="_blank">Java Developer</a>. I learned to develop restful API, test them, document them and present them. All my study projects are available in my repositories starting with Op-Cl-Java followed by the number 1 being the first and 9 the last
 </p>
 
 <h3 align="center">My Website 💻</h3>
